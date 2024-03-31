@@ -1,6 +1,14 @@
 # esp
 
 bla bla bla
+https://esphome.io/guides/getting_started_command_line.html
+https://www.home-assistant.io/integrations/mqtt/
+https://www.home-assistant.io/installation/
+https://github.com/RalfJL/VE.Direct2MQTT
+https://github.com/mc0110/inetbox2mqtt
+https://github.com/Fabian-Schmidt/esphome-truma_inetbox
+
+
 
 ```mermaid
 flowchart LR
