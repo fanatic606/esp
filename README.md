@@ -6,6 +6,15 @@ https://community.victronenergy.com/questions/184828/reading-victron-ble-broadca
 
 https://community.victronenergy.com/questions/53269/vedirect-to-mqtt-gateway-using-esp32.html
 
+BMS do akumulatora https://esphome.io/components/sensor/daly_bms.html?fbclid=IwAR2QoARkgIbshlK7pL_2F3MrMO580r5kfkI7LsOFdgf4NtpYgc_G7ihf_t8_aem_ASIAcsgT8FwiulA-lptr4D8JVTkL5UNLyniCdarg2QFAwSR31_Eh4s_SrZFXk25KxIWfojc0cOsdnOtwm1LIX6It
+
+Czujnik poziomu gazu Mopeka standard https://esphome.io/components/sensor/mopeka_std_check.html?fbclid=IwAR0NzrQ-IaDb-3rX4Fn08rbtHSS-70aluzXkY9ecBqOmDQ-cBvRf9KtmuyI_aem_ASJ2LsBRTyOdmF1GOtCPNOCfGSHWhqNA1WwH_lxcLNf0y4MHDyYoY-Ab17msiwxO2YBf-IPTYCpbikjMBelkRC2C
+
+czujnik poziomu gazu mopeka pro https://esphome.io/components/sensor/mopeka_pro_check.html?fbclid=IwAR0KlNZq4cxnBxa3-Qs96XyZjriF6OQAs4uYrh-4jjTMLzqewtAI7Di6wL4_aem_ASIDjRWvLWbYxDofIVT9BPXUAyutMIllgAbyNu5Q4P0n7dmg_G9CFhe1CSxv_rwYsvpE5GH1y7bIuMDmSYah_9Oq
+
+
+
+
 
 
 bla bla bla
